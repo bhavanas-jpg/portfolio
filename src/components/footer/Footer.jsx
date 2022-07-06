@@ -15,7 +15,7 @@ const Footer = () => {
       <li><a href="#">Home</a></li>
       <li><a href="#about">About</a></li>
       <li><a href="#experience">Experience</a></li>
-      <li><a href="#projects">Portfolio</a></li>
+      <li><a href="#projects">Projects</a></li>
       <li><a href="#contact">Contact</a></li>
      </ul>
 
@@ -25,7 +25,7 @@ const Footer = () => {
       <a href="https://twitter.com"><IoLogoTwitter /></a>
      </div>
      <div className="footer__copyright">
-      <small>&copy; </small>
+     <p><span>© | Oshna |🤍</span></p>
      </div>
     </footer>
   )

@@ -1,6 +1,6 @@
 import React from "react";
 import "../about/about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/about-me.svg";
 import { FaAward } from "react-icons/fa";
 import { VscFolderLibrary } from "react-icons/vsc";
 
@@ -17,6 +17,18 @@ const About = () => {
           </div>
         </div>
         <div className="about__content">
+          <div>
+            <q>
+              <strong>Creativity </strong>doesn't wait for that perfect moment.
+              It fashions its own perfect moments out of
+              <strong> ordinary</strong> ones.
+            </q>
+            <span>  -- Bruce Garrabrandt</span>
+            <p>
+              I loves creativity and developing new things. I want to make
+              things that make a difference !!
+            </p>
+          </div>
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
@@ -30,9 +42,7 @@ const About = () => {
             </article>
           </div>
           <p></p>
-          <a href="#contact" className="btn btn-primary">
-            Let's Talk
-          </a>
+          
         </div>
       </div>
     </section>
