@@ -4,7 +4,7 @@ import IMG1 from '../../assets/project1.jpg';
 import IMG2 from '../../assets/project2.jpg';
 import IMG3 from '../../assets/project3.jpg';
 import IMG4 from '../../assets/project4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
+import IMG5 from '../../assets/project5.jpg';
 import IMG6 from '../../assets/portfolio6.jpg';
 
 
@@ -29,6 +29,13 @@ const data = [
     title: 'LinkedIn Clone',
     github: 'https://github.com/bhavanas-jpg/LinkedIn_clone/tree/master/linkedin',
     demo: 'https://linkedin-clone-c2e52.web.app'
+  },
+  {
+    id: 4,
+    image: IMG5,
+    title: 'Estore',
+    github: 'https://github.com/bhavanas-jpg/Estore-react-app',
+    demo: 'https://estore-react-app.netlify.app/'
   }
   
 ]

@@ -25,7 +25,7 @@ const About = () => {
             </q>
             <span>  -- Bruce Garrabrandt</span>
             <p>
-              I loves creativity and developing new things. I want to make
+              I love creativity and developing new things. I want to make
               things that make a difference !!
             </p>
           </div>
